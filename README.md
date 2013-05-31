@@ -4,7 +4,5 @@ An example of a multi-user chat using nodeJs and Socket.io..
 
 ## How to install?
 
-<code>
-npm install <br/>
-node main
-</code>
+* Step 1: <code>npm install</code>
+* Step 2: <code>node main</code>
