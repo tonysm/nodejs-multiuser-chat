@@ -1,0 +1,8 @@
+{
+	"name": "multi-user-chat",
+	"author": "Luiz Antonio <tonyzrp@gmail.com>",
+	"dependencies": {
+		"express" : ">=3.x",
+		"socket.io": ">=0.9"
+	}
+}
